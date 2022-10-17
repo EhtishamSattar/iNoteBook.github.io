@@ -1,0 +1,25 @@
+i{
+    cursor:pointer;
+}
+#addNoteForm{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding:20px;
+}
+
+footer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#header{
+    position:fixed;
+    z-index: 999999;
+    left:0;
+    right:0;
+    top:0
+}
+
+/* carousel images */
+img{
+    max-height: 30rem;
+    max-width: 100%;
+}
